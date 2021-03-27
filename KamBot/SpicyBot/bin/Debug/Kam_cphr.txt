@@ -1,5 +1,0 @@
-int
-Klucz:
-R 106
-litera _ _ _
-int*cyferki/literki*2
